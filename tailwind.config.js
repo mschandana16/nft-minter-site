@@ -9,7 +9,12 @@ module.exports = {
     "./src/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        roboto: ["var(--font-roboto)"],
+        playfair_display: ["var(--font-playfair-display)"],
+      },
+    },
   },
-  plugins: [],
+  plugins: [require("daisyui"), "tailwindcss-animated", "@tailwindcss/forms"],
 };
