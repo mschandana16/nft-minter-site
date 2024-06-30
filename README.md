@@ -1,29 +1,34 @@
-This is a [RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh) + [Next.js](https://nextjs.org/) project bootstrapped with [`create-rainbowkit`](/packages/create-rainbowkit).
+# nft-minter-mintory
 
-## Getting Started
+UI for an nft-minting website (work in progress)
 
-First, run the development server:
+## Getting started
 
-```bash
-npm run dev
-```
+### 1. Fork and clone the repo
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 2. cd into the correct folder
+Navigate to the folder by running the following command in the terminal
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+`cd nft-minter-site`
 
-## Learn More
+### 3. Install dependencies
+Run the following command in the terminal
 
-To learn more about this stack, take a look at the following resources:
+`npm install`
 
-- [RainbowKit Documentation](https://rainbowkit.com) - Learn how to customize your wallet connection flow.
-- [wagmi Documentation](https://wagmi.sh) - Learn how to interact with Ethereum.
-- [Next.js Documentation](https://nextjs.org/docs) - Learn how to build a Next.js application.
+### 3. Start the local host
+Run the following command in the terminal
 
-You can check out [the RainbowKit GitHub repository](https://github.com/rainbow-me/rainbowkit) - your feedback and contributions are welcome!
+`npm run dev`
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+
+
+
+
+
+
