@@ -1,6 +1,6 @@
 # nft-minter-mintory
 
-UI for an nft-minting website (work in progress)
+UI for a nft-minting website (work in progress)
 
 ## Getting started
 
@@ -24,6 +24,10 @@ Run the following command in the terminal
 
 
 
+
+
+
+https://github.com/mschandana16/nft-minter-site/assets/116996448/286b1398-747c-4e6d-a231-1e227d8d8f4f
 
 
 
