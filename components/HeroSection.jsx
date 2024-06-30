@@ -44,7 +44,7 @@ const HeroSection = () => {
           className="h-screen p-10 bg-[#171717] absolute top-0 left-0 z-10 w-full flex flex-col gap-10 tracking-tight text-white/70"
         >
           <h1 className="text-6xl" id="msg-1">
-            Let's mint
+            Let&apos;s mint
           </h1>
           <h1 className="text-6xl" id="msg-2">
             some NFTs,
